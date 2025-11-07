@@ -1,4 +1,4 @@
-# 📊 Sales Performance & Customer Insights Dashboards
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/dacd420a-10e4-4704-a5e4-f0a39a4033b9" /># 📊 Sales Performance & Customer Insights Dashboards
 
 ## 🧠 Introduction
 
@@ -9,7 +9,6 @@ The dashboards enable data-driven decision-making by visualizing key metrics, tr
 ---
 
 ## 📈 Sales Dashboard
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cbcbdb21-cbc5-44e8-b75f-5731828e2802" />
 [View the Sales Dashboard on Tableau public ](https://public.tableau.com/views/SalesDashboard_17625207816660/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 🎯 **Purpose**
