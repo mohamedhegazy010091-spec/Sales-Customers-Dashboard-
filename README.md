@@ -90,7 +90,7 @@ These filters allow users to drill down into specific product lines or geographi
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Tools 
 
 | Tool | Purpose |
 |------|----------|
