@@ -100,7 +100,7 @@ These filters allow users to drill down into specific product lines or geographi
 
 ---
 
-## 📸 Dashboard Preview
+## Roadmap to accomplish project
 
 ### Project-Phases-Step-by-step 👇
 
