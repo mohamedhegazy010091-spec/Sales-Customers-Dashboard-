@@ -41,7 +41,7 @@ The **Sales Dashboard** provides an overview of core sales metrics and trends, e
 ---
 
 ## 👥 Customer Dashboard
-[View the Customer Dashboard on Tableau public ](https://public.tableau.com/views/CustomerDashboard_17625206951690/CustomersDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗[View the Customer Dashboard on Tableau public ](https://public.tableau.com/views/CustomerDashboard_17625206951690/CustomersDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 🎯 **Purpose**
 The **Customer Dashboard** provides a clear overview of customer trends and purchasing behaviors.  
@@ -108,6 +108,6 @@ These filters allow users to drill down into specific product lines or geographi
 
 ### Project-Phases-Step-by-step 👇
 
-[View the Documentation and Tasks boards](https://www.notion.so/Sales-Dashboard-2a1f32e56408811fbc06f73f70057167?source=copy_link)
+🔗[View the Documentation and Tasks boards](https://www.notion.so/Sales-Dashboard-2a1f32e56408811fbc06f73f70057167?source=copy_link)
 
 
