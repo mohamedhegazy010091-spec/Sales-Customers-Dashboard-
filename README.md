@@ -9,6 +9,8 @@ The dashboards enable data-driven decision-making by visualizing key metrics, tr
 ---
 
 ## 📈 Sales Dashboard
+[View the Sales Dashboard on Tableau public ]([https://www.notion.so/Sales-Dashboard-2a1f32e56408811fbc06f73f70057167?source=copy_link](https://public.tableau.com/views/SalesDashboard_17625207816660/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
 
 ### 🎯 **Purpose**
 The **Sales Dashboard** provides an overview of core sales metrics and trends, enabling users to analyze **year-over-year performance** and identify key growth opportunities or declines.
@@ -106,6 +108,6 @@ These filters allow users to drill down into specific product lines or geographi
 
 ### Project-Phases-Step-by-step 👇
 
-[View the Sales Dashboard Steps on Notion](https://www.notion.so/Sales-Dashboard-2a1f32e56408811fbc06f73f70057167?source=copy_link)
+[View the Documentation and Tasks boards](https://www.notion.so/Sales-Dashboard-2a1f32e56408811fbc06f73f70057167?source=copy_link)
 
 
