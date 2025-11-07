@@ -1,8 +1,8 @@
-# 📊 Tableau Project: Sales Performance & Customer Insights Dashboards
+# 📊 Sales Performance & Customer Insights Dashboards
 
 ## 🧠 Introduction
 
-This Tableau project presents two interactive dashboards — **Sales Dashboard** and **Customer Dashboard** — designed to help stakeholders such as **sales managers**, **executives**, and **marketing teams** analyze business performance and customer behavior.
+This project presents two interactive dashboards — **Sales Dashboard** and **Customer Dashboard** — designed to help stakeholders such as **sales managers**, **executives**, and **marketing teams** analyze business performance and customer behavior.
 
 The dashboards enable data-driven decision-making by visualizing key metrics, trends, and year-over-year comparisons across multiple dimensions such as time, product, and location.
 
@@ -102,7 +102,7 @@ These filters allow users to drill down into specific product lines or geographi
 
 ## 📸 Dashboard Preview
 
-Project-Phases 👇
+### Project-Phases-Step-by-step 👇
 
 [View the Sales Dashboard Steps on Notion](https://www.notion.so/Sales-Dashboard-2a1f32e56408811fbc06f73f70057167?source=copy_link)
 
