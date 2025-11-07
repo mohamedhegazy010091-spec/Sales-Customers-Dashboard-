@@ -9,6 +9,7 @@ The dashboards enable data-driven decision-making by visualizing key metrics, tr
 ---
 
 ## 📈 Sales Dashboard
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cbcbdb21-cbc5-44e8-b75f-5731828e2802" />
 [View the Sales Dashboard on Tableau public ](https://public.tableau.com/views/SalesDashboard_17625207816660/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 🎯 **Purpose**
