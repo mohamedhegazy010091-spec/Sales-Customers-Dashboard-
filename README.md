@@ -97,7 +97,7 @@ These filters allow users to drill down into specific product lines or geographi
 | Tool | Purpose |
 |------|----------|
 | **Tableau Public** | Data visualization and dashboard design |
-| **CSV Dataset** | Data source for analysis |
+| **Makeover monday** | Data source for analysis |
 | **draw.io** | Mockups for dashboard architecture |
 | **Notion** | Documentation and project management |
 | **GitHub** | Documentation and version control |
