@@ -102,9 +102,8 @@ These filters allow users to drill down into specific product lines or geographi
 
 ## 📸 Dashboard Preview
 
-Add your dashboard screenshots here 👇
+Project-Phases 👇
 
-```markdown
 [View the Sales Dashboard Steps on Notion](https://www.notion.so/Sales-Dashboard-2a1f32e56408811fbc06f73f70057167?source=copy_link)
 
 
