@@ -90,15 +90,15 @@ These filters allow users to drill down into specific product lines or geographi
 
 ---
 
-## 🧰 Tools 
+## 🧰 Tools & Technologists 
 
 | Tool | Purpose |
 |------|----------|
 | **Tableau Public** | Data visualization and dashboard design |
 | **CSV Dataset** | Data source for analysis |
-| **GitHub** | Documentation and version control |
 | **draw.io** | Mockups for dashboard architecture |
 | **Notion** | Documentation and project management |
+| **GitHub** | Documentation and version control |
 
 ---
 
