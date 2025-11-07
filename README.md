@@ -41,6 +41,7 @@ The **Sales Dashboard** provides an overview of core sales metrics and trends, e
 ---
 
 ## 👥 Customer Dashboard
+[View the Customer Dashboard on Tableau public ](https://public.tableau.com/views/CustomerDashboard_17625206951690/CustomersDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 🎯 **Purpose**
 The **Customer Dashboard** provides a clear overview of customer trends and purchasing behaviors.  
