@@ -96,6 +96,7 @@ These filters allow users to drill down into specific product lines or geographi
 
 | Tool | Purpose |
 |------|----------|
+| **Python** | Exploring the data |
 | **Tableau Public** | Data visualization and dashboard design |
 | **Makeover monday** | Data source for analysis |
 | **draw.io** | Mockups for dashboard architecture |
@@ -111,10 +112,6 @@ These filters allow users to drill down into specific product lines or geographi
 🔗[View the Documentation and Tasks boards on Notion](https://www.notion.so/Sales-Dashboard-2a1f32e56408811fbc06f73f70057167?source=copy_link)
 
 ---
-
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
 
