@@ -101,7 +101,7 @@ These filters allow users to drill down into specific product lines or geographi
 | **Makeover monday** | Data source for analysis |
 | **draw.io** | Mockups for dashboard architecture |
 | **Notion** | Documentation and project management |
-| **GitHub** | Documentation and version control |
+| **GitHub** | Viewing and version control |
 
 ---
 
